@@ -1,0 +1,18 @@
+{
+    "video_info": {
+        "fps": 10.0,
+        "maxframes": 580,
+        "video_path": "/home/Marco/Marco/11002/PD/home-health-care-system/Server/data/videos/Seen1/20220411000000.mp4",
+        "channel": "Seen1"
+    },
+    "event_info": {
+        "human_lie_event": {
+            "final": {},
+            "show_frame": 10,
+            "candidate_lie": false,
+            "start_frame": -1,
+            "success_second": 10,
+            "record": {}
+        }
+    }
+}

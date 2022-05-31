@@ -1,0 +1,5 @@
+# pip install -r requirements.txt
+
+# Database ----------------------------------------
+# sudo apt-get install libpq-dev
+psycopg2

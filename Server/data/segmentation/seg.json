@@ -1,0 +1,1 @@
+{"table": [100, 0, 0], "sofa": [200, 0, 0], "floor": [0, 100, 0], "AGV_trace": [0, 110, 0], "workspace": [0, 120, 0], "cartspace": [0, 130, 0],  "bed": [0, 0, 100], "cabinet": [0, 0, 200], "door": [100, 100, 100], "region_overlap": [0, 0, 0]}
